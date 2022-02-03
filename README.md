@@ -1,2 +1,2 @@
 # wp-menu
-backup program e-menu warung pejalan
+bisa melakukan crud semuanya, ubah profile, login-logout, dan code lebih rapi
