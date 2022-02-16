@@ -1,2 +1,2 @@
 # wp-menu
-backup program e-menu warung pejalan
+bagian user admin beres, profil user kasir sudah, login para pekerja sudah, tampilan welcome dan kategori sudah 
